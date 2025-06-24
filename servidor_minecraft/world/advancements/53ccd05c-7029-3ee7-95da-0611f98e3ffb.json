@@ -3391,6 +3391,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-24 02:15:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_oak_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-02 03:30:44 +0000"
