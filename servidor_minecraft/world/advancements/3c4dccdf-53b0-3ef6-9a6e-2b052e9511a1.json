@@ -1774,6 +1774,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-04-01 01:33:02 +0000"
@@ -2351,6 +2357,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-02 03:57:34 +0000"
@@ -2486,6 +2498,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-01 16:11:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
@@ -3109,6 +3127,12 @@
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-04-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-06-24 19:02:08 +0000"
     },
     "done": true
   },
@@ -3839,6 +3863,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:40:46 +0000"
@@ -4043,6 +4073,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 18:23:57 +0000"
@@ -4058,6 +4094,12 @@
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-04-02 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/cyan_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
@@ -5660,6 +5702,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-02 21:51:44 +0000",
       "minecraft:eroded_badlands": "2025-04-01 15:53:49 +0000",
+      "minecraft:sunflower_plains": "2025-06-24 19:18:53 +0000",
       "minecraft:birch_forest": "2025-04-02 04:03:10 +0000",
       "minecraft:beach": "2025-04-02 04:03:44 +0000",
       "minecraft:river": "2025-04-01 15:50:44 +0000",
@@ -5698,9 +5741,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_wall": {
     "criteria": {
       "has_item": "2025-04-02 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
@@ -6166,6 +6221,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
@@ -6223,6 +6284,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_dark_oak_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
@@ -6407,6 +6474,7 @@
       "baked_potato": "2025-04-01 17:48:44 +0000",
       "cookie": "2025-04-01 16:28:52 +0000",
       "cooked_mutton": "2025-04-02 03:56:16 +0000",
+      "sweet_berries": "2025-06-24 19:07:23 +0000",
       "apple": "2025-04-01 16:04:46 +0000",
       "bread": "2025-04-01 15:57:59 +0000",
       "melon_slice": "2025-04-03 00:05:19 +0000"
@@ -6482,6 +6550,12 @@
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
@@ -7582,6 +7656,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2025-04-03 00:18:29 +0000"
@@ -7868,6 +7948,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/lime_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-06-24 19:04:36 +0000"
     },
     "done": true
   },
