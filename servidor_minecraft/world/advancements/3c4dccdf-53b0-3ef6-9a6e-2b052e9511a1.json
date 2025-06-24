@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 01:07:57 +0000"
@@ -528,6 +534,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/taratite_wall": {
     "criteria": {
       "has_item": "2025-04-02 17:30:32 +0000"
@@ -606,9 +618,21 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -1236,6 +1260,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -1317,6 +1347,12 @@
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-04-02 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
     },
     "done": true
   },
@@ -2591,6 +2627,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
@@ -2669,9 +2711,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-01 15:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -2780,6 +2834,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -3538,6 +3598,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/light_blue_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:47:59 +0000"
@@ -3632,6 +3704,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-24 02:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -3794,6 +3872,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -4755,6 +4839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
@@ -4907,7 +4997,8 @@
       "minecraft:spider": "2025-04-02 18:34:39 +0000",
       "minecraft:creeper": "2025-04-03 23:36:40 +0000",
       "minecraft:zombie": "2025-04-01 16:23:39 +0000",
-      "minecraft:drowned": "2025-04-03 03:55:41 +0000"
+      "minecraft:drowned": "2025-04-03 03:55:41 +0000",
+      "minecraft:zombie_villager": "2025-06-24 19:50:41 +0000"
     },
     "done": false
   },
@@ -5058,6 +5149,12 @@
   "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
     "criteria": {
       "has_resource": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
     },
     "done": true
   },
@@ -5337,6 +5434,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/falsite_block": {
     "criteria": {
       "has_item": "2025-04-02 17:47:30 +0000"
@@ -5574,6 +5677,12 @@
   "mcwfences:recipes/metal": {
     "criteria": {
       "has_deepslate": "2025-04-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-24 19:51:47 +0000"
     },
     "done": true
   },
@@ -6137,6 +6246,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-04-01 15:56:16 +0000"
@@ -6224,6 +6345,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
@@ -7476,6 +7603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-24 20:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-01 16:27:11 +0000"
@@ -7840,6 +7973,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-01 15:59:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-24 20:10:43 +0000"
     },
     "done": true
   },
