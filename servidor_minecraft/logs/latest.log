@@ -1854,3 +1854,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Jun2025 02:23:07.906] [Worker-Main-28/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -11], pos: BlockPos{x=387, y=124, z=-169}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomesoplenty:flesh_tendon]
 [24Jun2025 02:23:07.906] [Worker-Main-28/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -11], pos: BlockPos{x=387, y=125, z=-169}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomesoplenty:flesh_tendon]
 [24Jun2025 02:23:07.906] [Worker-Main-28/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -11], pos: BlockPos{x=387, y=125, z=-169}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomesoplenty:flesh_tendon]
+[24Jun2025 02:30:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap was slain by Wither Skeleton
+[24Jun2025 02:30:10.986] [Server thread/INFO] [tombstone/]: The player Dinosaur_Meap has successfully been saved
+[24Jun2025 02:41:09.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:42:10.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=15, z=-403} BlockPos{x=-156, y=15, z=-405}
+[24Jun2025 02:42:10.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=15, z=-403} BlockPos{x=-156, y=15, z=-405}
+[24Jun2025 02:42:10.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=15, z=-403} BlockPos{x=-156, y=15, z=-405}
+[24Jun2025 02:45:10.230] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:45:10.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:45:10.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:45:10.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:45:10.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:45:10.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jun2025 02:48:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap was slain by Sea Serpent
+[24Jun2025 02:48:49.298] [Server thread/INFO] [tombstone/]: The player Dinosaur_Meap has successfully been saved
