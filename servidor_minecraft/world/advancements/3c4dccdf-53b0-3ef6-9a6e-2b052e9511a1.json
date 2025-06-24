@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 17:40:46 +0000"
@@ -482,6 +488,12 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-02 17:20:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -744,6 +756,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_curtain": {
+    "criteria": {
+      "has_item": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 17:40:46 +0000"
@@ -813,6 +831,12 @@
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-04-03 02:40:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -1155,6 +1179,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/red_upholstered_acacia_stool": {
     "criteria": {
       "has_red_wool": "2025-04-03 03:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -1629,6 +1659,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-01 16:28:15 +0000"
@@ -1638,6 +1674,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-03 01:05:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_crimson_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -1701,6 +1743,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-04-01 01:33:02 +0000",
@@ -1759,6 +1807,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-01 15:56:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -2267,6 +2321,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/coconut_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:42 +0000"
@@ -2600,6 +2660,12 @@
   "blue_skies:recipes/blue_skies_tools/diopside_sword": {
     "criteria": {
       "has_resource": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -3136,6 +3202,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_jungle_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
@@ -3605,6 +3677,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-01 15:59:52 +0000"
@@ -3827,6 +3905,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-04-01 15:56:39 +0000"
@@ -3896,6 +3980,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -4034,6 +4124,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -4485,6 +4581,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-02 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -5349,6 +5451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:47:59 +0000"
@@ -5424,6 +5532,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-01 16:14:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -5756,6 +5870,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_item": "2025-06-24 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -7596,6 +7716,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
@@ -7668,6 +7794,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-01 16:07:57 +0000"
@@ -7726,6 +7858,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-02 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },
@@ -7951,6 +8089,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_birch_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/lime_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_item": "2025-06-24 19:04:36 +0000"
@@ -8050,6 +8194,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-04-01 17:59:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-24 19:29:07 +0000"
     },
     "done": true
   },

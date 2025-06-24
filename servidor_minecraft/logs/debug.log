@@ -7558,3 +7558,165 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Jun2025 19:19:20.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_11
 [24Jun2025 19:19:59.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [24Jun2025 19:21:07.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Forever Dawn?]
+[24Jun2025 19:23:25.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/town_centers/0
+[24Jun2025 19:23:25.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/straight_3
+[24Jun2025 19:23:25.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/straight_2
+[24Jun2025 19:23:25.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_1
+[24Jun2025 19:23:25.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/small_6
+[24Jun2025 19:23:25.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/small_1
+[24Jun2025 19:23:25.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_4
+[24Jun2025 19:23:25.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/decor/lamp
+[24Jun2025 19:23:25.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/straight_5
+[24Jun2025 19:23:25.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/library
+[24Jun2025 19:23:25.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/temple
+[24Jun2025 19:23:25.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/corner_0
+[24Jun2025 19:23:25.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_5
+[24Jun2025 19:23:25.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/armorer
+[24Jun2025 19:23:25.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/straight_0
+[24Jun2025 19:23:25.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_0
+[24Jun2025 19:23:25.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/corner_2
+[24Jun2025 19:23:25.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_2
+[24Jun2025 19:23:25.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/fletcher
+[24Jun2025 19:23:25.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/weaponsmith
+[24Jun2025 19:23:25.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/small_5
+[24Jun2025 19:23:25.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/farm
+[24Jun2025 19:23:25.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/small_7
+[24Jun2025 19:23:25.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/intersection_3
+[24Jun2025 19:23:25.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/cartographer
+[24Jun2025 19:23:25.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/corner_1
+[24Jun2025 19:23:25.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/small_0
+[24Jun2025 19:23:25.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/toolsmith
+[24Jun2025 19:23:25.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/houses/nightwatcher
+[24Jun2025 19:23:25.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/streets/straight_4
+[24Jun2025 19:23:25.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/terminators/0
+[24Jun2025 19:24:05.819] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_double
+[24Jun2025 19:24:08.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:cave_spawners/everdawn_moonstone
+[24Jun2025 19:24:08.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:24:08.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 19:24:09.335] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[24Jun2025 19:24:09.344] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[24Jun2025 19:24:10.091] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[24Jun2025 19:24:10.093] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[24Jun2025 19:24:10.096] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:bunker/entrance
+[24Jun2025 19:24:16.882] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:starts/center
+[24Jun2025 19:24:16.891] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:temple/mars/mars_temple
+[24Jun2025 19:24:16.902] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:dungeon/moon/entrance
+[24Jun2025 19:24:17.104] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:cave_spawners/everdawn_simple
+[24Jun2025 19:24:17.118] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:cave_spawners/everdawn_spider_nest
+[24Jun2025 19:24:19.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_circle
+[24Jun2025 19:24:22.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:venus_tower
+[24Jun2025 19:24:25.086] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[24Jun2025 19:25:32.986] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:village/moon/lunarian_village/entrance
+[24Jun2025 19:25:36.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [A New Dawn]
+[24Jun2025 19:27:10.529] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[24Jun2025 19:27:10.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/base
+[24Jun2025 19:27:10.544] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/segment
+[24Jun2025 19:27:10.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/segment_top
+[24Jun2025 19:27:10.571] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/tower_top
+[24Jun2025 19:27:10.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/bridge
+[24Jun2025 19:27:10.582] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_prison
+[24Jun2025 19:27:10.589] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_study
+[24Jun2025 19:27:10.595] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_witch
+[24Jun2025 19:27:10.602] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_library_2
+[24Jun2025 19:27:13.479] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:warped_watch_tower
+[24Jun2025 19:27:13.488] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[24Jun2025 19:27:20.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/calming_skies/town_centers/2
+[24Jun2025 19:27:20.483] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/slushlands/town_centers/1
+[24Jun2025 19:27:20.486] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/sunset_maple_forest/town_centers/1
+[24Jun2025 19:27:20.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/shaded_woodlands/town_centers/1
+[24Jun2025 19:27:20.494] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/brightlands/town_centers/1
+[24Jun2025 19:27:20.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/town_centers/1
+[24Jun2025 19:27:20.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_tower
+[24Jun2025 19:28:10.740] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_house
+[24Jun2025 19:28:10.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:pillager_camp/campfire
+[24Jun2025 19:28:10.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[24Jun2025 19:28:10.763] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[24Jun2025 19:28:10.772] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[24Jun2025 19:28:42.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/main_2
+[24Jun2025 19:28:42.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_1
+[24Jun2025 19:28:42.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_1
+[24Jun2025 19:28:48.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[24Jun2025 19:28:48.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[24Jun2025 19:28:48.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[24Jun2025 19:28:48.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[24Jun2025 19:28:48.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[24Jun2025 19:28:48.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[24Jun2025 19:28:48.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[24Jun2025 19:28:48.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[24Jun2025 19:28:48.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[24Jun2025 19:28:48.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[24Jun2025 19:28:48.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[24Jun2025 19:28:48.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[24Jun2025 19:28:48.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[24Jun2025 19:28:48.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[24Jun2025 19:28:48.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[24Jun2025 19:28:48.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[24Jun2025 19:28:48.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[24Jun2025 19:28:48.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[24Jun2025 19:28:48.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[24Jun2025 19:28:48.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[24Jun2025 19:28:48.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[24Jun2025 19:28:48.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[24Jun2025 19:28:48.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[24Jun2025 19:28:48.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[24Jun2025 19:28:48.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[24Jun2025 19:28:48.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[24Jun2025 19:28:48.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[24Jun2025 19:28:48.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[24Jun2025 19:28:48.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[24Jun2025 19:28:48.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[24Jun2025 19:28:48.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[24Jun2025 19:28:48.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[24Jun2025 19:28:48.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[24Jun2025 19:28:48.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[24Jun2025 19:28:48.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[24Jun2025 19:28:48.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[24Jun2025 19:28:48.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[24Jun2025 19:28:48.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[24Jun2025 19:28:48.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[24Jun2025 19:28:48.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[24Jun2025 19:28:48.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[24Jun2025 19:28:48.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_0
+[24Jun2025 19:28:48.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[24Jun2025 19:28:48.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[24Jun2025 19:28:48.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[24Jun2025 19:28:48.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[24Jun2025 19:28:48.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[24Jun2025 19:28:48.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0
+[24Jun2025 19:29:00.207] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:village/moon/lunar_tower
+[24Jun2025 19:29:07.421] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[24Jun2025 19:29:08.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:29:08.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 19:29:15.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_sm
+[24Jun2025 19:29:18.437] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[24Jun2025 19:29:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has reached the goal [The Wizard's Tower]
+[24Jun2025 19:29:41.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/main_1
+[24Jun2025 19:29:41.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_2
+[24Jun2025 19:29:41.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_2
+[24Jun2025 19:30:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [1 Down, 3 to go]
+[24Jun2025 19:31:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Local Brewery]
+[24Jun2025 19:32:49.821] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/stone/15_1
+[24Jun2025 19:33:24.427] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-106, -26], pos: MutableBlockPos{x=-1689, y=64, z=-401}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:33:39.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_axe_1
+[24Jun2025 19:33:39.857] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[24Jun2025 19:34:08.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:34:08.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 19:34:14.906] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-114, -12], pos: BlockPos{x=-1816, y=61, z=-185}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@14382706: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@674324}
+[24Jun2025 19:34:27.819] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-115, -10], pos: MutableBlockPos{x=-1832, y=68, z=-146}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:34:27.819] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-115, -10], pos: MutableBlockPos{x=-1833, y=68, z=-145}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:34:57.989] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-120, -9], pos: MutableBlockPos{x=-1915, y=78, z=-130}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:35:33.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters3
+[24Jun2025 19:35:33.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[24Jun2025 19:35:33.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[24Jun2025 19:35:33.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure3
+[24Jun2025 19:35:33.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/evoker
+[24Jun2025 19:35:44.996] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[24Jun2025 19:36:43.820] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-134, -24], pos: BlockPos{x=-2130, y=64, z=-378}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@14382706: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@674324}
+[24Jun2025 19:36:43.821] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-133, -25], pos: BlockPos{x=-2128, y=64, z=-385}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@14382706: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@674324}
+[24Jun2025 19:36:43.821] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-134, -25], pos: BlockPos{x=-2129, y=66, z=-389}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@14382706: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@674324}
+[24Jun2025 19:36:44.815] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-133, -14], pos: MutableBlockPos{x=-2116, y=64, z=-213}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:36:44.816] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-133, -14], pos: MutableBlockPos{x=-2120, y=64, z=-216}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
+[24Jun2025 19:39:08.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:39:08.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 19:40:36.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_1
+[24Jun2025 19:40:55.312] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-129, -1], pos: MutableBlockPos{x=-2049, y=70, z=-3}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@470ddb9b: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@282914e8}
