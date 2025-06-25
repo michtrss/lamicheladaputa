@@ -2741,6 +2741,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-06-25 22:08:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-02 04:06:23 +0000"
@@ -4530,6 +4536,12 @@
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-04-02 23:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-25 22:09:21 +0000"
     },
     "done": true
   },
