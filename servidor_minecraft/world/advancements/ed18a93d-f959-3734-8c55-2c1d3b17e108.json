@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_slab": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-01 16:24:11 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_button": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-02 21:03:23 +0000"
@@ -596,6 +608,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/lime_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-03 23:07:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-06-25 01:51:22 +0000"
     },
     "done": true
   },
@@ -1737,6 +1755,12 @@
   "minecraft:recipes/transportation/coconut_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_stairs": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
     },
     "done": true
   },
@@ -3544,6 +3568,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_door": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
@@ -3609,6 +3639,7 @@
       "minecraft:blaze": "2025-04-03 03:57:27 +0000",
       "minecraft:skeleton": "2025-04-01 16:36:07 +0000",
       "minecraft:vindicator": "2025-04-02 21:46:36 +0000",
+      "minecraft:magma_cube": "2025-06-25 01:49:18 +0000",
       "minecraft:spider": "2025-04-01 16:55:30 +0000",
       "minecraft:piglin_brute": "2025-04-03 03:27:43 +0000",
       "minecraft:creeper": "2025-04-03 01:47:09 +0000",
@@ -3713,6 +3744,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:34:33 +0000"
@@ -3722,6 +3759,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-01 17:27:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_planks": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:44 +0000"
     },
     "done": true
   },
@@ -4553,6 +4596,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-01 16:11:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:49 +0000"
     },
     "done": true
   },
@@ -5746,9 +5795,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2025-04-01 17:48:30 +0000"
+      "enter_everbright": "2025-04-01 17:48:30 +0000",
+      "enter_everdawn": "2025-06-25 01:51:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_crimson_chair": {
     "criteria": {
@@ -5816,6 +5866,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_wall_from_log": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:31 +0000"
@@ -5843,6 +5899,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_wood": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:44 +0000"
     },
     "done": true
   },
@@ -5885,6 +5947,12 @@
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2025-04-01 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/moonstone_shield": {
+    "criteria": {
+      "has_item": "2025-06-25 01:52:18 +0000"
     },
     "done": true
   },

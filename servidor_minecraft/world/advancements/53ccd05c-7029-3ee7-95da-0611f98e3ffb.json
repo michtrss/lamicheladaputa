@@ -1376,6 +1376,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/pyrope_gem_from_block": {
+    "criteria": {
+      "has_item": "2025-06-25 01:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coconut_fence": {
     "criteria": {
       "has_item": "2025-04-02 01:12:55 +0000"
@@ -6112,6 +6118,7 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_emberback": "2025-06-25 01:50:56 +0000",
       "kill_venom_spider": "2025-06-24 19:24:14 +0000"
     },
     "done": false
