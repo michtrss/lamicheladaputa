@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_mangrove_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-02 04:06:23 +0000"
@@ -902,6 +908,12 @@
   "biomesoplenty:recipes/redstone/umbran_button": {
     "criteria": {
       "has_planks": "2025-06-24 19:05:05 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_crimson_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -1890,6 +1902,12 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_birch_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-02 01:36:44 +0000"
@@ -1965,6 +1983,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-02 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_warped_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -2181,6 +2205,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-02 19:16:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_jungle_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -4056,6 +4086,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_acacia_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:18:50 +0000"
@@ -4488,6 +4524,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stairs": {
     "criteria": {
       "has_item": "2025-06-24 20:50:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_spruce_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
     },
     "done": true
   },
@@ -5743,6 +5785,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_oak_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:18:50 +0000"
@@ -5884,6 +5932,12 @@
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-04-02 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_dark_oak_table": {
+    "criteria": {
+      "has_magenta_carpet": "2025-06-25 01:26:43 +0000"
     },
     "done": true
   },
