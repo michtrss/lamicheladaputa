@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_door": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:53:42 +0000"
@@ -512,6 +518,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
@@ -737,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-01 16:53:34 +0000"
@@ -770,6 +788,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/purple_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_fence": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -911,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/lime_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 16:23:18 +0000"
@@ -941,6 +971,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_axe": {
+    "criteria": {
+      "has_resource": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:31:10 +0000"
@@ -950,6 +986,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-03 03:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
@@ -1178,6 +1220,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stairs": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-04-01 16:16:46 +0000"
@@ -1323,6 +1371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-04-01 16:23:18 +0000"
@@ -1368,6 +1422,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_button": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -1962,6 +2022,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 16:24:11 +0000"
@@ -2292,6 +2358,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-01 16:53:56 +0000"
@@ -2301,6 +2373,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/magenta_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_sign": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -2423,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
@@ -2534,6 +2618,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 15:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
@@ -2814,6 +2904,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-26 02:21:28 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-04-01 15:45:42 +0000"
@@ -2904,6 +3000,12 @@
     },
     "done": true
   },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2025-06-26 02:55:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-01 16:31:10 +0000"
@@ -2946,6 +3048,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/lunar_stick": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:00:32 +0000"
@@ -2985,6 +3093,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-01 16:03:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_shovel": {
+    "criteria": {
+      "has_resource": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -3168,6 +3282,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_crafting_table": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-04-01 15:59:31 +0000"
@@ -3201,6 +3321,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
@@ -3409,12 +3535,19 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_fence_gate": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-01 16:13:56 +0000",
       "shrubland": "2025-04-01 16:26:27 +0000",
       "scrubland": "2025-04-01 16:00:46 +0000",
       "erupting_inferno": "2025-04-03 04:03:30 +0000",
+      "mystic_grove": "2025-06-26 02:12:35 +0000",
       "old_growth_woodland": "2025-04-01 16:13:36 +0000",
       "crystalline_chasm": "2025-04-03 03:20:31 +0000",
       "field": "2025-04-03 00:47:14 +0000",
@@ -3426,6 +3559,7 @@
       "visceral_heap": "2025-04-03 15:44:44 +0000",
       "fir_clearing": "2025-04-03 01:58:45 +0000",
       "grassland": "2025-04-03 02:08:16 +0000",
+      "glowing_grotto": "2025-06-26 02:32:28 +0000",
       "ominous_woods": "2025-04-03 01:53:09 +0000"
     },
     "done": false
@@ -3978,6 +4112,12 @@
     },
     "done": true
   },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2025-06-26 02:55:35 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-04-02 21:47:10 +0000"
@@ -4011,6 +4151,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-03 23:07:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_sword": {
+    "criteria": {
+      "has_resource": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -4059,6 +4205,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_slab": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -4155,6 +4307,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 16:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-26 02:14:56 +0000"
     },
     "done": true
   },
@@ -4281,9 +4439,11 @@
       "minecraft:beach": "2025-04-03 00:54:14 +0000",
       "minecraft:river": "2025-04-01 15:50:33 +0000",
       "minecraft:cold_ocean": "2025-04-02 21:50:14 +0000",
+      "minecraft:forest": "2025-06-26 03:38:32 +0000",
       "minecraft:frozen_ocean": "2025-04-02 21:49:23 +0000",
       "minecraft:desert": "2025-04-01 15:45:43 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-02 21:45:35 +0000",
+      "minecraft:ocean": "2025-06-26 02:55:35 +0000",
       "minecraft:warm_ocean": "2025-04-01 15:52:26 +0000",
       "minecraft:flower_forest": "2025-04-01 16:27:54 +0000",
       "minecraft:deep_dark": "2025-04-03 02:28:44 +0000",
@@ -4350,6 +4510,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-06-26 01:53:09 +0000"
     },
     "done": true
   },
@@ -4897,6 +5063,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-26 02:18:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
@@ -4906,6 +5078,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-02 21:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
@@ -4972,6 +5150,12 @@
   "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-04-01 16:11:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_hoe": {
+    "criteria": {
+      "has_resource": "2025-06-26 02:18:55 +0000"
     },
     "done": true
   },
@@ -5219,6 +5403,12 @@
     "criteria": {
       "has_wood": "2025-04-01 17:36:57 +0000",
       "has_the_recipe": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-26 01:52:43 +0000"
     },
     "done": true
   },
@@ -5757,6 +5947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-01 16:49:37 +0000"
@@ -5778,6 +5974,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-03 03:57:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-26 02:28:15 +0000"
     },
     "done": true
   },
@@ -6073,6 +6275,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-03 02:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-26 02:01:58 +0000"
     },
     "done": true
   },
